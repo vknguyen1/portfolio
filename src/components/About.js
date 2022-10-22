@@ -6,8 +6,10 @@ function About() {
     'Vinny',
     'Khoi',
     'Dependable',
-    'Tennis Professional',
+    'A Tennis Professional',
     'Creative',
+    'Considerate',
+    'Driven',
   ];
   const randomAdjective =
     adjectives[Math.floor(Math.random() * adjectives.length)];

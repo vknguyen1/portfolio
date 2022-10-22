@@ -15,7 +15,7 @@ function Contact() {
             <Col lg="5">
               <h3 className="color_sec py-4">Get in Touch</h3>
               <address>
-                <strong>Email: evilmailman88@yahoo.com</strong>
+                <strong>Email: vincentkn@hotmail.com</strong>
                 <br />
                 <br />
                 <p>
@@ -71,6 +71,11 @@ function Contact() {
             </Col>
           </Row>
         </Container>
+      </div>
+      <div className="contact-socials">
+        <a href="www.linkedin.com/in/vincent-nguyen-4b2b29243">Linkedin</a>
+        <a href="https://github.com/vknguyen1">Github</a>
+        <a href="">Resume</a>
       </div>
     </>
   );
