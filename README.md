@@ -1,4 +1,14 @@
-## Welcome to my Portfolio!
+## Welcome!!
+
+# I'm Vincent
+
+I am a fullstack web developer and an accountant, looking to bring solutions to everyday .
+
+
+# Check out my web portfolio!
+
+[Portfolio](https://iamvincentkn.netlify.app/)
+
 
 # Check out my projects
 
