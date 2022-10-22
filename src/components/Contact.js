@@ -75,7 +75,6 @@ function Contact() {
       <div className="contact-socials">
         <a href="www.linkedin.com/in/vincent-nguyen-4b2b29243">Linkedin</a>
         <a href="https://github.com/vknguyen1">Github</a>
-        <a href="">Resume</a>
       </div>
     </>
   );
