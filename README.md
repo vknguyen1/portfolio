@@ -2,10 +2,10 @@
 
 # Check out my projects
 
--songs to see
+-[songs to see](https://songstosee.herokuapp.com/)
 -Find upcoming concerts near you!
 
--Workout finder/tracker
+-[Workout finder/tracker](https://bodybuilding-app.herokuapp.com/)
 -track your progress and see your gains
 
 # Technologies I know
